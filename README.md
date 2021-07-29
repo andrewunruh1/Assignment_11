@@ -1,3 +1,6 @@
+## Notebooks are in the Starter_Code folder.
+
+
 # Unit 11 - Risky Business
  
 ![Credit Risk](Images/credit-risk.jpg)
